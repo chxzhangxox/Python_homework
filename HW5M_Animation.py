@@ -1,11 +1,11 @@
+#Create a window with a red bouncing ball
+#The ball still bounces if when the mainwindow is resized during runtime
+
+
 import sys
 
 from PyQt5 import QtGui, QtCore
 from PyQt5.QtWidgets import QWidget, QApplication, QPushButton
-
-
-#from numpy import sqrt
-#print sqrt(4)
 
 class BouncingBall(QWidget):
     
