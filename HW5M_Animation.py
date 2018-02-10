@@ -1,5 +1,5 @@
 #Create a window with a red bouncing ball
-#The ball still bounces if when the mainwindow is resized during runtime
+#The ball still bounces even when the mainwindow is resized during runtime
 
 
 import sys
