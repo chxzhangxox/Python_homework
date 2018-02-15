@@ -11,5 +11,11 @@ A test program of execution time of different functions/methods (list comprehens
 HW3:
 A self-written MathVector class functions like built-in Vector class. Magic methods (addtion,multiplication,[] and etc.) are defined.
 
+HW4W:
+Read unordered data (name, phone) from one file and write organized data into another file using regular expression to catch certain structures.
+
 HW5M:
 A program of animation using PyQt5. A red ball is able to bounce inside the window with certain speed. It works even if the window is resized during runtime.
+
+HW5W:
+A rectangle that can be dragged with the mouse and users can change its color by double clicking the rectangle. (Practice of mouse events)
