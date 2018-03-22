@@ -19,3 +19,19 @@ A program of animation using PyQt5. A red ball is able to bounce inside the wind
 
 HW5W:
 A rectangle that can be dragged with the mouse and users can change its color by double clicking the rectangle. (Practice of mouse events)
+
+HW6M:
+Create a math calculator GUI with Qt Designer. It is able to process python style math commands (^ works as well!) and print the output to the console.
+
+HW6F:
+Learn to process images using numpy arrays including combining two images, removing green background and finding (and visualizing) differences between two similar images.
+
+HW7F:
+Learn to process audios using Fast Fourier Transform (from SciPy). The code is able to remove the "woo guy" from a superbowl game (remove certain frequency from an audio).
+
+HW8W:
+Find the maximum area that can be enclosed by a curve with a given length l using scipy.optimize.minimize. Answer is a circle.
+
+HW9M:
+Utilize scipy.integrate.odeint to solve for higher order ODEs. The code uses Motions of Pendulum as an example showing how to solve the second order ordinary differential equation by writing them as two first order ODEs.
+
